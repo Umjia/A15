@@ -37,42 +37,69 @@ Not a rising Matrix
 Test Case 2:
 
 Enter  n:3
+
 Enter a[0][0]: 3
+
 Enter a[0][1]: 6
+
 Enter a[0][2]: 9
+
 Enter a[1][0]: 2
+
 Enter a[1][1]: 5
+
 Enter a[1][2]: 8
+
 Enter a[2][0]: 1
+
 Enter a[2][1]: 4
+
 Enter a[2][2]: 7
 
  printing the elements ....
 
 3       6       9
+
 2       5       8
-1       4       7       It is a rising matrix
+
+1       4       7 
+
+It is a rising matrix
 
 
 Enter  n:2
+
 Enter a[0][0]: 3
+
 Enter a[0][1]: 6
+
 Enter a[1][0]: 2
+
 Enter a[1][1]: 5
 
  printing the elements ....
 
 3       6
-2       5       It is a rising matrix
+
+2       5     
+
+It is a rising matrix
 
 
 Enter  n:2
+
 Enter a[0][0]: 6
+
 Enter a[0][1]: 5
+
 Enter a[1][0]: 9
+
 Enter a[1][1]: 8
 
  printing the elements ....
 
 6       5
-9       8       Not a rising Matrix
+
+9       8    
+
+Not a rising Matrix
