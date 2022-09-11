@@ -4,22 +4,34 @@ The most important variable here was count which was a boolean variable and its 
 Test case 1:
 
 Enter  n:4
+
 83 86 77 15 
+
 93 35 86 92 
+
 49 21 62 27 
+
 90 59 63 26 
+
 Not a rising Matrix
 
 Enter  n:2
+
 83 86 
+
 77 15 
+
 Not a rising Matrix
 
 
 Enter  n:3
+
 83 86 77 
+
 15 93 35 
+
 86 92 49 
+
 Not a rising Matrix
 
 Test Case 2:
