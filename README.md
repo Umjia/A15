@@ -19,7 +19,4 @@ Output: It is not a Rising Tower Matrix
 
 Output:It is a Rising Tower Matrix
 
-<p align="center">
-  <img src=""C:\Users\admin\Desktop\s.png"" width="350" title="hover text">
-  
-</p>
+
