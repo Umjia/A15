@@ -1,105 +1,25 @@
-The Question given was to find whether a matrix is a rising matrix or not.
-For this problem I took a matrix of mxn and using a for loop I checked the columns if all of them had a descending order then the matrix was a rising one but even if one of them was not in a descending order then it was not a rising matrix.
-The most important variable here was count which was a boolean variable and its value decided whether the matrix is rising or not.
+The Problem statement  given was to find whether a matrix is a rising matrix or not.
+For this problem I used two classes ,first class is for calculation an the second was my main class.
+I used an arraylist here and also asked for number of towers from user.
+The user also had to give a choice ,1 for user input and 2 for random input
 Test case 1:
 
-Enter  n:4
 
-83 86 77 15 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95165463/189668083-4dc1d5d0-ed74-4a4e-9acc-3b217952e8e9.png" width="350" title="hover text">
+  
+</p>
 
-93 35 86 92 
+Output: It is not a Rising Tower Matrix
 
-49 21 62 27 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95165463/189667623-2322a9b0-d341-4051-a555-59f4f4c1f218.png" width="350" title="hover text">
+  
+</p>
 
-90 59 63 26 
+Output:It is a Rising Tower Matrix
 
-Not a rising Matrix
-
-Enter  n:2
-
-83 86 
-
-77 15 
-
-Not a rising Matrix
-
-
-Enter  n:3
-
-83 86 77 
-
-15 93 35 
-
-86 92 49 
-
-Not a rising Matrix
-
-Test Case 2:
-
-Enter  n:3
-
-Enter a[0][0]: 3
-
-Enter a[0][1]: 6
-
-Enter a[0][2]: 9
-
-Enter a[1][0]: 2
-
-Enter a[1][1]: 5
-
-Enter a[1][2]: 8
-
-Enter a[2][0]: 1
-
-Enter a[2][1]: 4
-
-Enter a[2][2]: 7
-
- printing the elements ....
-
-3       6       9
-
-2       5       8
-
-1       4       7 
-
-It is a rising matrix
-
-
-Enter  n:2
-
-Enter a[0][0]: 3
-
-Enter a[0][1]: 6
-
-Enter a[1][0]: 2
-
-Enter a[1][1]: 5
-
- printing the elements ....
-
-3       6
-
-2       5     
-
-It is a rising matrix
-
-
-Enter  n:2
-
-Enter a[0][0]: 6
-
-Enter a[0][1]: 5
-
-Enter a[1][0]: 9
-
-Enter a[1][1]: 8
-
- printing the elements ....
-
-6       5
-
-9       8    
-
-Not a rising Matrix
+<p align="center">
+  <img src=""C:\Users\admin\Desktop\s.png"" width="350" title="hover text">
+  
+</p>
