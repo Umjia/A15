@@ -20,3 +20,11 @@ Output: It is not a Rising Tower Matrix
 Output:It is a Rising Tower Matrix
 
 
+USING RANDOM INPUT:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95128944/191970856-deceb1d2-1653-4303-87a3-8f9386eaa90b.png" width="500" title="hover text">
+  
+</p>
+
+
